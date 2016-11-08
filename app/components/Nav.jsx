@@ -13,7 +13,7 @@ var Nav = () => {
 			</div>
 			<div className="top-bar-right">
 				<ul className="menu">
-					<li className="menu-text">Created by <Link to="http://fullstackadam.com/" style={{display: 'inline', paddingLeft: 0}}>fullstackadam</Link></li>
+					<li className="menu-text">Created by <Link to="http://fullstackadam.com/">fullstackadam</Link></li>
 				</ul>
 			</div>
 		</div>
